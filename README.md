@@ -5,6 +5,8 @@
 
 Im lordace from Nigeria,im a software developer,My area of expertise include backend development with python django and cross platform mobile development with flutter and dart.
 I also enjoy frontend design with react and game development with godot.
+
+
 Skills: REACT/FLUTTER/FLASK/DJANGO
 
 - 🔭 I’m currently working on many projects. 
