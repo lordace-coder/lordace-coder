@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @lordace-coder
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Game Dev
-- 💞️ I’m looking to collaborate on Any projects
+### Hi There
+Im lordace from Nigeria,im a software developer,My area of expertise include backend development with python django and cross platform mobile development with flutter and dart.
+I also enjoy frontend design with react and game development with godot.
 
-<!---
-lordace-coder/lordace-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordace-coder&hide=contribs,prs)
