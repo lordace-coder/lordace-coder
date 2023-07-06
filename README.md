@@ -19,7 +19,3 @@ Skills: REACT/FLUTTER/FLASK/DJANGO
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lordace-coder&theme=dracula&show_icons=true)  
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordace-coder&show_icons=true&theme=synthwave&hide=contribs,prs)
-
