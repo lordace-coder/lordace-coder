@@ -1,7 +1,7 @@
 ### Hi There
 #### I am a software developer
 
-![Screen Shot](https://img.freepik.com/premium-vector/luxury-dark-banner-background-with-blue-lines-combinations_82226-22.jpg)
+(https://img.freepik.com/premium-vector/luxury-dark-banner-background-with-blue-lines-combinations_82226-22.jpg)
 
 Im lordace from Nigeria,im a software developer,My area of expertise include backend development with python django and cross platform mobile development with flutter and dart.
 I also enjoy frontend design with react and game development with godot.
