@@ -1,8 +1,7 @@
 ### Hi There
 #### I am a software developer
 
-(https://img.freepik.com/premium-vector/luxury-dark-banner-background-with-blue-lines-combinations_82226-22.jpg)
-
+![I am GitHub Readme Generator's creator](https://img.freepik.com/premium-vector/luxury-dark-banner-background-with-blue-lines-combinations_82226-22.jpg)
 Im lordace from Nigeria,im a software developer,My area of expertise include backend development with python django and cross platform mobile development with flutter and dart.
 I also enjoy frontend design with react and game development with godot.
 
