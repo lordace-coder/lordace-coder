@@ -1,7 +1,7 @@
 ### Hi There
 #### I am a software developer
 
-![I am a software developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a software developer](https://www.freepik.com/premium-vector/luxury-dark-banner-background-with-blue-lines-combinations_6048250.htm)
 
 Im lordace from Nigeria,im a software developer,My area of expertise include backend development with python django and cross platform mobile development with flutter and dart.
 I also enjoy frontend design with react and game development with godot.
