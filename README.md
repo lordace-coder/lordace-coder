@@ -76,19 +76,12 @@ As the **CEO and Founder** of Cocobase, I'm building the next-generation Backend
 
 <div align="center">
 
-<!-- Alternative GitHub Stats - these are more reliable -->
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=patrickchidera&show_icons=true&theme=radical&hide_border=true)](https://github.com/patrickchidera)
+<!-- GitHub Stats with correct username -->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lordace-coder&show_icons=true&theme=radical&hide_border=true)](https://github.com/lordace-coder)
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=patrickchidera&layout=compact&theme=radical&hide_border=true)](https://github.com/patrickchidera)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordace-coder&layout=compact&theme=radical&hide_border=true)](https://github.com/lordace-coder)
 
-<!-- If stats still don't work, you can use these alternatives -->
-<!--
-### 🏆 GitHub Metrics
-- 🔥 **Active Developer**: Regular contributor with consistent commit history
-- 📚 **Multi-Language**: Expertise across 8+ programming languages
-- 🌟 **Open Source**: Maintaining multiple public repositories
-- 🚀 **Project Leader**: Leading Cocobase development and community
--->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lordace-coder&theme=radical&hide_border=true)](https://github.com/lordace-coder)
 
 </div>
 
@@ -101,12 +94,12 @@ Backend as a Service platform with real-time capabilities, authentication, and d
 - **Tech Stack**: Go, Python, React, Docker, Kubernetes
 - **Features**: Real-time APIs, Authentication, Database Management, File Storage
 
-### 📱 [Flutter E-Commerce App](https://github.com/patrickchidera/flutter-ecommerce)
+### 📱 [Flutter E-Commerce App](https://github.com/lordace-coder/flutter-ecommerce)
 Full-featured e-commerce mobile application with payment integration.
 - **Tech Stack**: Flutter, Dart, Firebase, Stripe API
 - **Features**: Product catalog, Cart management, Payment processing
 
-### 🌐 [Next.js SaaS Boilerplate](https://github.com/patrickchidera/nextjs-saas-starter)
+### 🌐 [Next.js SaaS Boilerplate](https://github.com/lordace-coder/nextjs-saas-starter)
 Production-ready SaaS application template with authentication and payments.
 - **Tech Stack**: Next.js, TypeScript, Prisma, Stripe
 - **Features**: Authentication, Subscription management, Admin dashboard
@@ -162,8 +155,8 @@ Production-ready SaaS application template with authentication and payments.
 
 ### 💭 "Building the future, one commit at a time"
 
-![Profile Views](https://komarev.com/ghpvc/?username=patrickchidera&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=lordace-coder&color=blueviolet&style=for-the-badge)
 
-⭐️ From [Patrick Chidera](https://github.com/patrickchidera) | CEO of [Cocobase](https://cocobase.com)
+⭐️ From [Patrick Chidera](https://github.com/lordace-coder) | CEO of [Cocobase](https://cocobase.com)
 
 </div>
