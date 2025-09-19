@@ -1,18 +1,19 @@
 # 👋 Hello, I'm Patrick Chidera
 
-### 💻 Full-Stack Developer & CEO of Cocobase
+### 💻 Full-Stack Developer, Game Developer & CEO of Cocobase
 
-Welcome to my GitHub! I'm a passionate software engineer who loves building scalable applications and contributing to the open-source community. Currently leading **Cocobase** - a powerful Backend as a Service platform that's revolutionizing how developers build and deploy applications.
+Welcome to my GitHub! I'm a passionate software engineer who loves building scalable applications, immersive games, and contributing to the open-source community. Currently leading **Cocobase** - a powerful Backend as a Service platform that's revolutionizing how developers build and deploy applications. When I'm not architecting backend systems, you'll find me crafting interactive experiences with Godot Engine.
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 **Currently working on**: Building and scaling [Cocobase](https://github.com/cocobase) - Backend as a Service platform
-- 🌱 **Always learning**: Latest trends in cloud architecture, microservices, and developer tools
-- 👯 **Looking to collaborate on**: Open source projects, developer tools, and innovative web applications
-- 💬 **Ask me about**: Full-stack development, API design, cloud deployments, and startup leadership
-- ⚡ **Fun fact**: I speak multiple programming languages fluently (literally and figuratively!)
+- 🔭 **Currently working on**: Building and scaling [Cocobase](https://github.com/cocobase) - Backend as a Service platform & developing indie games with Godot
+- 🌱 **Always learning**: Latest trends in cloud architecture, microservices, game development, and developer tools
+- 🎮 **Game Dev**: Creating immersive experiences with Godot Engine and GDScript
+- 👯 **Looking to collaborate on**: Open source projects, developer tools, innovative web applications, and indie games
+- 💬 **Ask me about**: Full-stack development, API design, cloud deployments, game development, and startup leadership
+- ⚡ **Fun fact**: I speak multiple programming languages fluently (literally and figuratively!) - including GDScript for games!
 
 ---
 
@@ -38,6 +39,11 @@ Welcome to my GitHub! I'm a passionate software engineer who loves building scal
 ### **Mobile Development**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### **Game Development**
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### **Cloud & DevOps**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -94,6 +100,11 @@ Backend as a Service platform with real-time capabilities, authentication, and d
 - **Tech Stack**: Go, Python, React, Docker, Kubernetes
 - **Features**: Real-time APIs, Authentication, Database Management, File Storage
 
+### 🎮 [Indie Game Collection](https://github.com/lordace-coder/godot-games)
+Collection of indie games built with Godot Engine featuring unique gameplay mechanics.
+- **Tech Stack**: Godot Engine, GDScript, C#
+- **Features**: 2D/3D gameplay, Physics systems, Custom shaders, Audio integration
+
 ### 📱 [Flutter E-Commerce App](https://github.com/lordace-coder/flutter-ecommerce)
 Full-featured e-commerce mobile application with payment integration.
 - **Tech Stack**: Flutter, Dart, Firebase, Stripe API
@@ -109,9 +120,10 @@ Production-ready SaaS application template with authentication and payments.
 ## 🎯 Current Focus
 
 - 🚀 **Scaling Cocobase**: Expanding our developer ecosystem and platform capabilities
+- 🎮 **Game Development**: Creating engaging indie games with Godot Engine
 - 🔧 **Open Source**: Contributing to and maintaining multiple open-source projects
 - 📚 **Content Creation**: Sharing knowledge through blogs, tutorials, and documentation
-- 🤝 **Community Building**: Fostering developer communities around modern backend solutions
+- 🤝 **Community Building**: Fostering developer communities around modern backend solutions and game development
 
 ---
 
@@ -121,6 +133,11 @@ Production-ready SaaS application template with authentication and payments.
   - Leading a team building next-generation BaaS solutions
   - Architecting scalable cloud infrastructure
   - Driving product strategy and technical vision
+
+- **Indie Game Developer** (2021 - Present)
+  - Developed and published multiple games using Godot Engine
+  - Specialized in 2D/3D gameplay mechanics and custom shaders
+  - Active in the Godot community and open-source game development
 
 - **Senior Full-Stack Developer** (2020 - 2023)
   - Built and deployed 20+ production applications
