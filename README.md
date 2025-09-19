@@ -72,15 +72,23 @@ As the **CEO and Founder** of Cocobase, I'm building the next-generation Backend
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-![Patrick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=patrickchidera&show_icons=true&theme=tokyonight&hide_border=true)
+<!-- Alternative GitHub Stats - these are more reliable -->
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=patrickchidera&show_icons=true&theme=radical&hide_border=true)](https://github.com/patrickchidera)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickchidera&layout=compact&theme=tokyonight&hide_border=true)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=patrickchidera&layout=compact&theme=radical&hide_border=true)](https://github.com/patrickchidera)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=patrickchidera&theme=tokyonight&hide_border=true)
+<!-- If stats still don't work, you can use these alternatives -->
+<!--
+### 🏆 GitHub Metrics
+- 🔥 **Active Developer**: Regular contributor with consistent commit history
+- 📚 **Multi-Language**: Expertise across 8+ programming languages
+- 🌟 **Open Source**: Maintaining multiple public repositories
+- 🚀 **Project Leader**: Leading Cocobase development and community
+-->
 
 </div>
 
