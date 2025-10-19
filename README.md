@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a passionate software engineer who loves building scal
 
 ## 🚀 About Me
 
-- 🔭 **Currently working on**: Building and scaling [Cocobase](https://github.com/cocobase) - Backend as a Service platform & developing indie games with Godot
+- 🔭 **Currently working on**: Building and scaling [Cocobase](https://github.com/cocobaseofficial) - Backend as a Service platform & developing indie games with Godot
 - 🌱 **Always learning**: Latest trends in cloud architecture, microservices, game development, and developer tools
 - 🎮 **Game Dev**: Creating immersive experiences with Godot Engine and GDScript
 - 👯 **Looking to collaborate on**: Open source projects, developer tools, innovative web applications, and indie games
@@ -95,7 +95,7 @@ As the **CEO and Founder** of Cocobase, I'm building the next-generation Backend
 
 ## 🌟 Featured Projects
 
-### 🎯 [Cocobase Platform](https://github.com/cocobase)
+### 🎯 [Cocobase Platform](https://github.com/cocobaseofficial)
 Backend as a Service platform with real-time capabilities, authentication, and database management.
 - **Tech Stack**: Go, Python, React, Docker, Kubernetes
 - **Features**: Real-time APIs, Authentication, Database Management, File Storage
@@ -129,7 +129,7 @@ Production-ready SaaS application template with authentication and payments.
 
 ## 📈 Professional Experience
 
-- **CEO & Founder** at Cocobase (2023 - Present)
+- **CEO & Founder** at Cocobase (2025 - Present)
   - Leading a team building next-generation BaaS solutions
   - Architecting scalable cloud infrastructure
   - Driving product strategy and technical vision
@@ -139,7 +139,7 @@ Production-ready SaaS application template with authentication and payments.
   - Specialized in 2D/3D gameplay mechanics and custom shaders
   - Active in the Godot community and open-source game development
 
-- **Senior Full-Stack Developer** (2020 - 2023)
+- **Senior Full-Stack Developer** (2020 - Present)
   - Built and deployed 20+ production applications
   - Specialized in React, Python, and cloud deployments
   - Led technical teams and mentored junior developers
@@ -174,6 +174,6 @@ Production-ready SaaS application template with authentication and payments.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lordace-coder&color=blueviolet&style=for-the-badge)
 
-⭐️ From [Patrick Chidera](https://github.com/lordace-coder) | CEO of [Cocobase](https://cocobase.com)
+⭐️ From [Patrick Chidera](https://github.com/lordace-coder) | CEO of [Cocobase](https://cocobase.buzz)
 
 </div>
